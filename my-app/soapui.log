@@ -1,0 +1,14 @@
+2022-03-11 16:09:33,959 WARN  [SoapUI] Missing folder [C:\Users\Administrator\Desktop\Soap UI Project\my-app\ext] for external libraries
+2022-03-11 16:09:34,255 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Administrator\soapui-settings.xml]
+2022-03-11 16:09:35,819 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Administrator/Desktop/Soap%20UI%20Project/my-app/calculator-soapui-project.xml]
+2022-03-11 16:09:36,146 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [calculator]
+2022-03-11 16:09:36,151 INFO  [SoapUITestCaseRunner] Running Project [calculator], runType = SEQUENTIAL
+2022-03-11 16:09:36,192 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [calc]
+2022-03-11 16:09:36,225 INFO  [SoapUITestCaseRunner] running step [Add - additin]
+2022-03-11 16:09:37,267 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-11 16:09:37,268 INFO  [SoapUITestCaseRunner] running step [Subtract - Request 1]
+2022-03-11 16:09:37,573 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-11 16:09:37,573 INFO  [SoapUITestCaseRunner] running step [Multiply - Request 1]
+2022-03-11 16:09:37,886 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-11 16:09:37,906 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [calc], time taken: 1642ms, status: FINISHED
+2022-03-11 16:09:37,907 INFO  [SoapUITestCaseRunner] Project [calculator] finished with status [FINISHED] in 1750ms
